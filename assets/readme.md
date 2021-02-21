@@ -9,9 +9,9 @@
 
 ## CSS Stylesheet
     Text color formated to a single color.
-    Bckground colors conformed with text.
+    Background colors conformed with text.
     Text flow is more aesthetically pleasing.
     Font size is more pronounced where needed.
-    Stylesheet oranized by tag.
+    Stylesheet oranized in sequential order by tag.
     
-![screenshot](screenshot-file-C-Users-18472-Desktop-homework-HW-01-HTML-CSS-GIT-CODE-REFRACTOR-index-html-1613940194918.png)
+![screenshot]
