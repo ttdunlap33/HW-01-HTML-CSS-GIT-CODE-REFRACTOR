@@ -19,6 +19,7 @@
     Font size is more pronounced where needed.
     Stylesheet oranized in sequential order by tag.
 
+    
     [![screenshot-homework-HW-01-HTML-CSS-GIT-CODE-REFRACTOR.png](https://i.postimg.cc/Vkb37s1J/screenshot-homework-HW-01-HTML-CSS-GIT-CODE-REFRACTOR.png)](https://postimg.cc/ZW47nSWm)
 
 
